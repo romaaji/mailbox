@@ -1,4 +1,4 @@
-<img src=x onerror=alert(1)>
+<img src="http://icbt.lk/skillsnthrills/wp-content/uploads/2020/11/263771650022212.png">
 ### Cara Penggunaan?
 
 - Buka file `db.php` di folder `include`
