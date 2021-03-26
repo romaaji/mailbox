@@ -1,5 +1,5 @@
 
-<img src="http://icbt.lk/skillsnthrills/wp-content/uploads/2020/11/263771650022212.png" align="left" width=300px>
+<img src="http://icbt.lk/skillsnthrills/wp-content/uploads/2020/11/263771650022212.png" align="center" width=300px>
 
 ## Cara Menggunakan!
 
