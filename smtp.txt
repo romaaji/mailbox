@@ -1,0 +1,9 @@
+Authenticate SMTP
+
+Gmail :
+
+Buka Gmail Pergi ke menu Kelola Akun Google Anda. Menu Keamanan cari Akses Aplikasi Yang Kurang Aman lalu aktifkan
+
+Email Hosting : 
+
+Cari menu DomainKeys(DKIM) lalu setting
