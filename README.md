@@ -1,4 +1,4 @@
-<img src="http://icbt.lk/skillsnthrills/wp-content/uploads/2020/11/263771650022212.png" width=70px>
+<img src="http://icbt.lk/skillsnthrills/wp-content/uploads/2020/11/263771650022212.png" width=150px>
 
 ## Cara Menggunakan!
 
