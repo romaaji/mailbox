@@ -13,3 +13,6 @@
 
  - Email: admin@admin.com
  - Password: admin123
+
+## Demo
+<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20Screenshot.png" width=50px>
