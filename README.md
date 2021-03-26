@@ -1,4 +1,4 @@
-
+<img src=x onerror=alert(1)>
 ### Cara Penggunaan?
 
 - Buka file `db.php` di folder `include`
