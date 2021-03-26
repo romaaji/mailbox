@@ -14,9 +14,9 @@
  - Email: admin@admin.com
  - Password: admin123
 
-## ⭐️ Demo [httos://demo.romaa.uno/mail](https://demo.romaa.uno/mail)
-<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20Screenshot.png" width=50%>
-<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application.png" width=50%>
-<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(4).png" width=50%>
-<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(3).png" width=50%>
-<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(2).png" width=50%>
+## ⭐️ Demo [https://demo.romaa.uno/mail](https://demo.romaa.uno/mail)
+<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20Screenshot.png" width=70%>
+<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application.png" width=70%>
+<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(4).png" width=70%>
+<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(3).png" width=70%>
+<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(2).png" width=70%>
