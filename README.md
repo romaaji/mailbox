@@ -15,8 +15,8 @@
  - Password: admin123
 
 ## ⭐️ Demo [https://demo.romaa.uno/mail](https://demo.romaa.uno/mail)
-<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20Screenshot.png" width=170px>
-<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application.png" width=170px>
-<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(4).png" width=170px>
-<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(3).png" width=170px>
-<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(2).png" width=170px>
+<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20Screenshot.png" width=270px>
+<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application.png" width=270px>
+<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(4).png" width=270px>
+<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(3).png" width=270px>
+<img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(2).png" width=270px>
