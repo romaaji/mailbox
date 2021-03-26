@@ -11,5 +11,5 @@
 
 ### Admin User & Pass
 
-**Email: ** admin@admin.com
-**Password: ** admin123
+ - Email: admin@admin.com
+ - Password: admin123
