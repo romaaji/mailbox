@@ -1,5 +1,6 @@
-<img src="http://icbt.lk/skillsnthrills/wp-content/uploads/2020/11/263771650022212.png">
-### Cara Penggunaan?
+<img src="http://icbt.lk/skillsnthrills/wp-content/uploads/2020/11/263771650022212.png" width=50%>
+
+## Cara Menggunakan!
 
 - Buka file `db.php` di folder `include`
 - Buka `phpmyadmin` di browser
