@@ -1,3 +1,11 @@
+<style>
+ img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+ </style>
 <img src="http://icbt.lk/skillsnthrills/wp-content/uploads/2020/11/263771650022212.png" width=300px>
 
 ## Cara Menggunakan!
@@ -15,6 +23,7 @@
  - Password: admin123
 
 ## ⭐️ Demo [https://demo.romaa.uno/mail](https://demo.romaa.uno/mail)
+## ⭐️ Demo Admin Login [https://demo.romaa.uno/mail/admin](https://demo.romaa.uno/mail/admin)
 <img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20Screenshot.png" width=300px>
 <img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application.png" width=300px>
 <img src="https://raw.githubusercontent.com/romaaji/mailbox/master/Screenshot_2021-03-26%20AJ-Email%20Application(4).png" width=300px>
