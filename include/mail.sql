@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Mar 26, 2021 at 04:34 AM
+-- Generation Time: Mar 26, 2021 at 05:49 AM
 -- Server version: 10.4.16-MariaDB
 -- PHP Version: 7.4.12
 
@@ -65,20 +65,7 @@ CREATE TABLE `contact` (
 --
 
 INSERT INTO `contact` (`id`, `ctime`, `cdate`, `cname`, `cemail`, `csubject`, `cmessage`) VALUES
-(4, '2021-02-26 00:39:29', '2021-02-26', 'Romadhon Aji', 'roma.phising@gmail.com', 'Job Description', 'Hi my name asdsaldkasd\r\nwhat i cant have you with a manager?\r\n\r\nbest regardt,\r\nponogoel'),
-(6, '2021-02-26 01:25:34', '2021-02-26', 'Romadhon</span> Aji', 'roma@roma.roma', 'ASD', 'SAD'),
-(10, '2021-02-26 01:26:50', '2021-02-26', 'Ahmad</span>Aji', 'roma.phising@gmail.com', 'ASDAS', 'dasd'),
-(13, '2021-03-02 14:42:21', '2021-03-02', 'Dicoding', 'diconding@dicoding.com', 'dasd', 'sadasd'),
-(15, '2021-03-07 02:37:31', '2021-03-07', 'Romadhon</span> Aji', 'contact.romaa@gmail.com', 'Belajar', 'Oi Bang'),
-(16, '2021-03-07 07:08:19', '2021-03-07', 'Romadhon Aji', 'contact.romaa@gmail.com', 'Job Regristration', 'Hy My name is pono i can feell your six'),
-(20, '2021-03-15 14:59:16', '2021-03-15', 'Support NBCTV', 'contact.romaa@gmail.com', '\"><img src=x onerror=alert(1)>', 'asdas'),
-(21, '2021-03-15 20:15:38', '2021-03-15', 'Admin MNCTV', 'roma.phising@gmail.com', 'Job Description', 'aaaa'),
-(22, '2021-03-16 20:23:00', '2021-03-16', 'Dicoding', 'contact.romaa@gmail.com', 'ASDAS', 'asdas'),
-(23, '2021-03-16 20:26:55', '2021-03-16', 'jokowi', 'roma.phising@gmail.com', 'sadsad', 'asdasdas'),
-(24, '2021-03-16 20:31:03', '2021-03-16', 'Romadhonaji Founder', 'contact.romaa@gmail.com', 'Re: Job Regristration', 'asdasd'),
-(25, '2021-03-16 20:32:00', '2021-03-16', 'Romadhonaji Founder', 'contact.romaa@gmail.com', 'Re: Job Regristration', 'asdasd'),
-(26, '2021-03-21 10:52:30', '2021-03-21', 'Andika', 'adnika@mail.com', 'Question', 'hai apakah benar?'),
-(27, '2021-03-21 11:41:31', '2021-03-21', 'Andre Pirlo', 'pirlo@mail.com', 'asdasd', 'asdasd');
+(28, '2021-03-26 11:48:32', '2021-03-26', 'Romadhonaji Founder', 'tesmail@mail.com', 'Information', 'HiBro');
 
 -- --------------------------------------------------------
 
@@ -138,7 +125,7 @@ ALTER TABLE `admin_users`
 -- AUTO_INCREMENT for table `contact`
 --
 ALTER TABLE `contact`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=28;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=29;
 
 --
 -- AUTO_INCREMENT for table `smtp_setup`
